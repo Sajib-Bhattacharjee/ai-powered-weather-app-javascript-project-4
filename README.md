@@ -4,7 +4,7 @@
 
 ## `Weather App`
 
-#### 🌟 **Live Preview** 🌟 → 💕 [**Weather App**](https://ai-powered-trello-task-manager-javascript-project-3.vercel.app/) 💕
+#### 🌟 **Live Preview** 🌟 → 💕 [**Weather App**](https://sbcweatherapp2025.netlify.app/) 💕
 
 🎉 Click to explore the fun and laughter! 😄
 
